@@ -1,0 +1,16 @@
+{
+  "name": "circula-livros",
+  "version": "1.0.0",
+  "description": "Sistema que facilita doação e acesso a livros físicos, promovendo o compartilhamento de conhecimento e incentivando a leitura.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:cov":"jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
